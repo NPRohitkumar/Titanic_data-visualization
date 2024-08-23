@@ -1,8 +1,3 @@
-<style>
-    *{
-        font-family:copperplate;
-    }
-</style>
 
 The Titanic dataset is one of the most famous datasets in data science and machine learning. It contains information about the passengers aboard the Titanic, which sank on its maiden voyage in 1912.
 Here’s a breakdown of what each column in the Titanic dataset typically means:
